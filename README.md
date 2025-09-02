@@ -1,3 +1,3 @@
-## Bem vindo ao meu GitHub 👋
+# Bem vindo ao meu GitHub 👋
 
-<img src = banner.gif width = "325px" align-itens "right">
+<img src = banner.gif width = "325px">
