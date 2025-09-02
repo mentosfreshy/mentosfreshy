@@ -1,9 +1,13 @@
-<img src = banner.gif width = "425px" align = "right">
----
+<div style="position: absolute; z-index: 10;">
+<img src = banner.gif width = "425px" align = "right" >
+  </div>
 
 # 🐱‍👤 Bem vindo ao meu GitHub!
-Cursando análise e Desenvolvimento de Sistemas-UTFPR
----
+
+-👨‍💻Cursando análise e Desenvolvimento de Sistemas-UTFPR
+-🐱‍🚀Aprimorando meu Back-end
+-🐱‍💻
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
